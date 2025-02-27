@@ -1,1 +1,0 @@
-# revive-qr-code
