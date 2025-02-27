@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  line-height: 1.6;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+.logo {
+    margin-top: 80px;
+    text-align: center; 
+    margin-bottom: 80px;
+}
+
+.logo img {
+    max-width: 50%; 
+    height: auto;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.composition-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.composition-table th,
+.composition-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.composition-table th {
+  background-color: #f4f4f4;
+  text-align: left;
+}
